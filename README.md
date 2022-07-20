@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2> Hi there! I'm Ari 👋
+
+
+
 
 <!--
 **arisharma43/arisharma43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
