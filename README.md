@@ -9,7 +9,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 - 💻 &nbsp;
-  ![Python](Images/python.svg)
+####  ![Python](Images/python.svg)
   
 
 
