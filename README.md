@@ -5,7 +5,7 @@
 - 🎓 &nbsp; High school student in Austin, TX interested in Computer Science and Engineering
 - 🌱 &nbsp; Learning more about NLP, Reinforcement Learning, AWS, Web Development
 - 🥼 &nbsp; Pursuing research at Security, Privacy, Trust and Ethics in Computing (SPriTE) Research Lab
-- 🏊‍♂️ &nbsp; Working as a lifeguard for the City of Austin
+- 💻 &nbsp; Working on Deep Learning Specialization
 
 ### 🛠 &nbsp;Tech Stack
 
