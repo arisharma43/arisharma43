@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; High school student in Austin, TX interested in Computer Science and Engineering
+- 🎓 &nbsp; Incoming CS Student at UT Austin
 - 🌱 &nbsp; Learning more about NLP, Reinforcement Learning, AWS, Web Development
-- 🥼 &nbsp; Pursuing research at Security, Privacy, Trust and Ethics in Computing (SPriTE) Research Lab
-- 💻 &nbsp; Working on Deep Learning Specialization
+- 🥼 &nbsp; Co-Author of research paper with Security, Privacy, Trust and Ethics in Computing (SPriTE) Research Lab
+- 💻 &nbsp; Learning new tools all the time
 
 ### 🛠 &nbsp;Tech Stack
 
