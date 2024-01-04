@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Incoming CS Student at UT Austin
+- 🎓 &nbsp; CS Student at UT Austin
 - 🌱 &nbsp; Learning more about NLP, Reinforcement Learning, AWS, Web Development
 - 🥼 &nbsp; Co-Author of research paper with Security, Privacy, Trust and Ethics in Computing (SPriTE) Research Lab
 - 💻 &nbsp; Learning new tools all the time
