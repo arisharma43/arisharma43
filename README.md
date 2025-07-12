@@ -1,4 +1,4 @@
-<h2> Hi there! I'm Ari 👋 </h2>
+<h2> SWE Intern @ Tanium </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
